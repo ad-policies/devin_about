@@ -30,9 +30,9 @@ GitHub 上の Python 関連のリポジトリの issue から作られた問題�
 問題の内訳については [こちら](https://blog.asial.co.jp/4646/) から拝借しています。<br>
 | リポジトリ | 説明 | 問題数 |
 | ---- | ----| ---- |
-|astropy/astropy|天文学用の Python ライブラリ|95|
-|django/django|Web アプリケーションフレームワーク|850|
-|matplotlib/matplotlib|データ可視化ライブラリ|184|
+| astropy/astropy | 天文学用の Python ライブラリ | 95 |
+| django/django | Web アプリケーションフレームワーク | 850 |
+| matplotlib/matplotlib | データ可視化ライブラリ | 184 |
 
 ・<br>
 ・<br>
