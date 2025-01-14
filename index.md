@@ -1,6 +1,6 @@
 ---
 layout: page
-title: プライバシーポリシー
+title: Devinについて
 ---
 
 # 完全自立型 AI Devin
